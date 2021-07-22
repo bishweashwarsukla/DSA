@@ -16,6 +16,7 @@ int main()
 
     auto b= max_element(vec.begin(),vec.end());
     cout<<"maximum element is "<<*b;
+    
     return 0;
 
 }
