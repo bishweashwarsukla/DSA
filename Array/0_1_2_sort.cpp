@@ -18,7 +18,7 @@ int main()
             }
         }
     }
-
+    cout<<"sorted array is :\n";
     for(auto x:v)
     {
         cout<<x<<" ";
